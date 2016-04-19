@@ -1,0 +1,16 @@
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/android/gms/location/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/app/newt/trackreal/R$integer$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/app/newt/trackreal/R$mipmap$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/app/newt/trackreal/R$string$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/android/tools/fd/runtime/AppPatchesLoaderImpl.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/android/gms/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/app/newt/trackreal/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/android/gms/measurement/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/app/newt/trackreal/R$style$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/app/newt/trackreal/R$layout$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/android/gms/base/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/app/newt/trackreal/R$styleable$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/design/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/android/gms/maps/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/android/support/v7/appcompat/R$id$override.class
+CHANGED,/home/newtglobal/AndroidStudioProjects/TrackReal/mobile/build/intermediates/transforms/instantRun/debug/folders/4000/5/enhanced/com/google/android/gms/gcm/R$id$override.class

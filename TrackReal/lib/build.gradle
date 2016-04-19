@@ -1,0 +1,10 @@
+/*
+ * Copyright (c) 2016 Newt Global India Pvt. Ltd.
+ */
+
+apply plugin: 'java'
+
+dependencies {
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'org.json:json:20160212'
+}

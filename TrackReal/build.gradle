@@ -1,0 +1,52 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+apply plugin: "sonar-runner"
+
+sonarRunner {
+    sonarProperties {
+        property 'sonar.host.url', 'http://localhost:9000/sonar'
+        property 'sonar.jdbc.url', 'jdbc:mysql://localhost:3306/sonar?useUnicode=true'
+        property 'sonar.jdbc.driverClassName', 'com.mysql.jdbc.Driver'
+        property 'sonar.jdbc.username', 'sonar'
+        property 'sonar.jdbc.password', 'sonar'
+        property 'sonar.login', 'admin'
+        property 'sonar.password', 'admin'
+        property 'sonar.sources', 'src'
+        property 'sonar.binaries', 'build'
+        property 'sonar.profile', 'Sonar way'
+        property 'sonar.projectName', 'Track Real'
+        property 'sonar.projectKey', 'com.app.newt.trackreal'
+        property 'sonar.projectVersion', '1.0-SNAPSHOT'
+        property 'sonar.projectDescription', 'Tracking Project'
+    }
+}
+
+buildscript {
+    repositories {
+        jcenter()
+    }
+    dependencies {
+        classpath 'com.android.tools.build:gradle:2.1.0-beta1'
+
+        // NOTE: Do not place your application dependencies here; they belong
+        // in the individual module build.gradle files
+    }
+}
+
+subprojects {
+    sonarRunner {
+        sonarProperties {
+            property 'sonar.sourceEncoding', 'UTF-8'
+            property 'sonar.sources', 'src/main'
+        }
+    }
+}
+
+allprojects {
+    repositories {
+        jcenter()
+    }
+}
+
+task clean(type: Delete) {
+    delete rootProject.buildDir
+}

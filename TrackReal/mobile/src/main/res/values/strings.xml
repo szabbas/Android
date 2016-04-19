@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright (c) 2016 Newt Global India Pvt. Ltd.
+  -->
+
+<resources>
+    <string name="app_name">TrackReal</string>
+
+    <string name="txt_sms_confirmation">We will send an SMS with a confirmation code to this number.</string>
+    <string name="txt_enter_number">Enter Number</string>
+    <string name="txt_next">Next</string>
+    <string name="txt_edit">Edit</string>
+    <string name="txt_track">Track</string>
+    <string name="txt_cancel">Cancel</string>
+    <string name="txt_reschedule">Reschedule</string>
+    <string name="txt_submit">Submit</string>
+    <string name="txt_resend">Resend</string>
+    <string name="txt_four_digit">4-digit</string>
+    <string name="txt_wrong_number">please enter valid number!</string>
+    <string name="txt_appointment">Appointments</string>
+    <string name="txt_no_sim_card">Please insert sim card into your device.</string>
+    <string name="txt_please_wait">please wait&#8230;</string>
+    <string name="txt_alert_mobile_number_confirmation_header"><b>Please verify your number :</b></string>
+    <string name="txt_alert_mobile_number_confirmation_footer"><b>Would you like to edit the number?</b></string>
+    <string name="txt_mobile_number_verification">We have sent you an SMS with a code.\n\n To complete your phone number verification, please enter the 4-digit activation code.</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_register">Sign Up</string>
+    <string name="title_activity_confirmation">Verify your number</string>
+</resources>

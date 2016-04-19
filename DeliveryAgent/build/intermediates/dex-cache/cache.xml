@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/newtglobal/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.3.0/support-annotations-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.3.0_efc468ad9b0e3e6b71752dc9c1d19baca30e783b/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_1cb582e62d74f3aeb0b175b37e90884db5c9fb19/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="fef2b3e4b6b1b0e5fe7b69fa137a5fa55a3182ab">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-8.4.0_1831d169f8957a4fa1afd8d31d2bdb185d4ee800/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.3.0_c7cc3fdbdbe0217249079b52c5904c53221fd155/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-measurement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="613298b7aa012f121ce542881c0a599ebd8078f2">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-measurement-8.4.0_63cdb80c1d9d66197d767521417e45b34319c66b/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.3.0_e3afe870ca38a81c94ff7473405668c9dd40fbc1/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.3.0_8b4cbc642a098bfc4a077e4107bca0062c765fe2/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/design/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f0001e71cea6ae432a00021c6f727f5ef0f3d27e">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-23.3.0_cf3ee12f758938ab56192a5f42781928b942f0a9/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a8412b654dab86d57bf90683367488211c8a81f1">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-8.4.0_a08d13ac762355864d3e83f6e740faab963c6892/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.3.0_4badb823fc05dd6d5c38ba2bd7577a02d1f7ca69/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.3.0/jars/libs/internal_impl-23.3.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.3.0_ebd4ba10051250d8e60e60efc751fa3b9ac32443/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="82ce13fd19cdfde0e392f03c27edeba8d4333648">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-23.3.0_7568fdef08e9f20d967b530bda8f92506a1cd5a7/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/retrofit/2.0.1/27293c440d2085cde1d859528aff6e7d3b6ae40/retrofit-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="027293c440d2085cde1d859528aff6e7d3b6ae40">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/retrofit-2.0.1_7f46dc0128beca447de818f1f4a36d59ed7e34e9/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.3.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="debf30ce0a7560396b6235edef77e447006454c2">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-23.3.0_482b3ed1a25610328d16f4ef3ee9e39ff26a311b/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="51c71a11c3dc3dbb9821bdb48b782b2a5547350a">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_4a34ec0ec86a57bafcb96e4d9ef845b588abab09/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit2/converter-gson/2.0.1/2780d858273ce1bb90f6b12e1ef0d40f7741fca/converter-gson-2.0.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="02780d858273ce1bb90f6b12e1ef0d40f7741fca">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/converter-gson-2.0.1_dc974e803f4030ce3ddb4030b80e6bc946d19986/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="dfdac6fc0c31d0db6f4549081d92a3470005480b">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_de1ca495b08bda9be5ccfd323d42d96af0477f91/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.6.0_0ae03cf1bc2aa27da195bd5e33ec3e40b613995c/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="04de44f90606c77f3b28cf44861f306290505aac">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-8.4.0_bc393b30eb78329dcec1025557ae8bd320dc95ae/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.3.2/d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27/picasso-2.3.2.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d6b7f0093cec6c9faf65dbfd6a6a345d0ed25e27">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.3.2_d84c0952d10856eccccee9a7f0900ba5184720be/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2d7fe76982677315c4dc4edfb459c8ca718a9d4c">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-8.4.0_49513bc8fd95fc56138afb4ef95c12857696a42c/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.2.0/f7873a2ebde246a45c2a8d6f3247108b4c88a879/okhttp-3.2.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f7873a2ebde246a45c2a8d6f3247108b4c88a879">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.2.0_01207e5c6d1c77fb32639440d63b768562d0c6ce/classes.dex" />
+    </item>
+    <item
+        jar="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8e673cdfadd8f2d98fdb2fda2285c30f6e449782">
+        <dex dex="/home/newtglobal/AndroidStudioProjects/DeliveryAgent/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-8.4.0_7141f2915e7fb825868cc46eaf5538212d71025c/classes.dex" />
+    </item>
+
+</items>

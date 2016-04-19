@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><!-- ~ Copyright (c) 2016 Newt Global India Pvt. Ltd. -->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.app.newt.trackreal">
+
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
+
+    <application
+        android:name=".ApplicationController"
+        android:allowBackup="true"
+        android:fullBackupContent="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- App first start-up screen -->
+        <activity
+            android:name=".SplashActivity"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- User's registration screen -->
+        <activity
+            android:name=".activity.RegisterActivity"
+            android:label="@string/title_activity_register"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysVisible" />
+        <!-- User's mobile number verification screen -->
+        <activity
+            android:name=".activity.ConfirmationActivity"
+            android:label="@string/title_activity_confirmation"
+            android:screenOrientation="portrait"
+            android:windowSoftInputMode="stateAlwaysVisible" />
+        <!-- User's product tracking home screen -->
+        <activity
+            android:name=".activity.Home"
+            android:label="@string/app_name"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".activity.MainActivity"
+            android:label="@string/title_activity_main"
+            android:theme="@style/AppTheme" />
+    </application>
+
+</manifest>

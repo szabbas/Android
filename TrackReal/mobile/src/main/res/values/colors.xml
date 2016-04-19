@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Copyright (c) 2016 Newt Global India Pvt. Ltd.
+  -->
+
+<resources>
+    <color name="colorPrimary">#089191</color>
+    <color name="colorPrimaryDark">#056161</color>
+    <color name="colorAccent">#056161</color>
+    <color name="windowBackground">#f2f2f2</color>
+    <color name="gray">#bfbfbf</color>
+    <color name="red">#ffff4444</color>
+</resources>
